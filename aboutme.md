@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who I am
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+My name is Saitheeraj Thatigotla, or Sai (as in sigh) for short.
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am a junior at the University of Tennessee, Knoxville studying CS and Math. I'm interesting in AI/DS/ML, bioinformatics, and generally making ideas tangible.
